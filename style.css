@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+.top{
+    padding: 20px;
+    max-width: 1200px;
+    
+    margin: auto;
+    
+}
+.head1{
+    background-color: white;
+    position: sticky;
+    top: 0px;
+}
+.cont1{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    font-weight: bolder;
+    padding-top: 5px;
+    
+}
+.nave{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+}
+.navbar a:hover{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50px;
+    padding: 2px 5px;
+}
+
+.para{
+    text-align: justify;
+}
+.container{
+    background-color: rgb(224, 221, 221);
+}
+.fcont{
+    max-width: 1200px;
+    margin: auto;
+    padding-bottom: 100px;
+   
+}
+h1{
+    padding-bottom: 30px;
+}
+.item1{
+    display: inline-block;
+    width: 600px;
+    padding-top: 100px;
+    font-size: 23px;
+    
+}
+.img1{
+    padding-top: 200px;
+    width: 400px;
+    height: auto;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+.scont{
+    max-width: 1000px;
+    margin: auto;
+}
+.item2{
+    max-width: 1200px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    /* padding: 30px 0px 50px 0px  */
+}
+.item3{
+    max-width: 1200px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 30px 0px 50px 0px;
+}
+.img2{
+    width: 300px;
+    height: auto;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.imgmain1,.imgmain2{
+    padding-bottom: 50px;
+}
+.foot{
+    background-color: gray;
+}
+   
+.footdiv{
+    max-width: 1200px;
+    margin: auto;
+    padding: 0px;
+   
+
+}
+.foot1{
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.bx{
+    font-size: 25px;
+    padding: 20px;
+}
+.copy{
+    font-size: 25px;
+}
+.head1{
+    background-color: rgb(124, 124, 124);
+}
